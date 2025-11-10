@@ -6,12 +6,12 @@ This project is created by **Bhavik** to practice both **Node.js (HTTP module)**
 
 ## 📁 Project Structure
 
-server-learning/
-├── normal-server/
-│ └── index.js # Simple HTTP server using Node.js
-├── express-server/
-│ └── app.js # Server using Express framework
-└── README.md # Project documentation
+- server-learning/ 
+- ├── normal-server/
+- │ └── index.js # Simple HTTP server using Node.js
+- ├── express-server/
+- │ └── app.js # Server using Express framework
+- └── README.md # Project documentation
 ---
 
 ## 🧠 What You’ll Learn
